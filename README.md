@@ -6,27 +6,46 @@ Seja bem-vindo(a) ao meu repositório!
 
 Este repositório foi criado para armazenar meus projetos, estudos e experimentos relacionados a desenvolvimento, design e programação.
 
-
 ## 🚀 Tecnologias utilizadas
 
-- 🔧 Git e GitHub
-- 💻 [Adicione aqui suas linguagens e ferramentas principais, ex.: Python, JavaScript, HTML, CSS, etc.]
+<div align="center">
 
+🛠️ **Minhas principais habilidades** 🛠️
+
+<table>
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" /><br>
+      <b>Python</b>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" /><br>
+      <b>JavaScript</b>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" /><br>
+      <b>HTML5</b>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" /><br>
+      <b>CSS3</b>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ## 📁 Estrutura
 
 - Pasta ou arquivos organizados conforme os projetos desenvolvidos.
 
-
 ## 💡 Objetivo
 
 A finalidade deste repositório é compartilhar conhecimento, acompanhar minha evolução como desenvolvedor e designer, além de manter meus projetos organizados na nuvem.
 
-
 ## 👨‍💻 Sobre mim
 
 Me chamo Marlon Lara, apaixonado por tecnologia, desenvolvimento, design e sempre buscando aprender coisas novas.
-
 
 ## 📊 GitHub Stats
 
@@ -37,7 +56,6 @@ Me chamo Marlon Lara, apaixonado por tecnologia, desenvolvimento, design e sempr
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marlon-Lara1010111&layout=compact&theme=radical)
 
 </div>
-
 
 ## 📍 Onde me encontrar
 
