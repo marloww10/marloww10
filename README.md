@@ -1,37 +1,32 @@
-Seja bem-vindo(a) ao meu repositório!
+# marlon-Lara101011
 
----
+Seja bem-vindo(a) ao meu repositório!
 
 ## 📌 Descrição
 
 Este repositório foi criado para armazenar meus projetos, estudos e experimentos relacionados a desenvolvimento, design e programação.
 
----
 
 ## 🚀 Tecnologias utilizadas
 
 - 🔧 Git e GitHub
 - 💻 [Adicione aqui suas linguagens e ferramentas principais, ex.: Python, JavaScript, HTML, CSS, etc.]
 
----
 
 ## 📁 Estrutura
 
 - Pasta ou arquivos organizados conforme os projetos desenvolvidos.
 
----
 
 ## 💡 Objetivo
 
 A finalidade deste repositório é compartilhar conhecimento, acompanhar minha evolução como desenvolvedor e designer, além de manter meus projetos organizados na nuvem.
 
----
 
 ## 👨‍💻 Sobre mim
 
 Me chamo Marlon Lara, apaixonado por tecnologia, desenvolvimento, design e sempre buscando aprender coisas novas.
 
----
 
 ## 📊 GitHub Stats
 
@@ -43,7 +38,6 @@ Me chamo Marlon Lara, apaixonado por tecnologia, desenvolvimento, design e sempr
 
 </div>
 
----
 
 ## 📍 Onde me encontrar
 
