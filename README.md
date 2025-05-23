@@ -23,13 +23,6 @@ A finalidade deste repositório é compartilhar conhecimento, acompanhar minha e
 
 Me chamo Marlon Lara, apaixonado por tecnologia, desenvolvimento, design e sempre buscando aprender coisas novas.
 
-### 🌐 Redes sociais
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/seu-usuario)
-- 📸 [Instagram](https://www.instagram.com/seu-usuario)
-- 🎨 [Behance](https://www.behance.net/marlonlara4)
-- 🐙 [GitHub](https://github.com/marlon-Lara101011)
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -40,6 +33,9 @@ Me chamo Marlon Lara, apaixonado por tecnologia, desenvolvimento, design e sempr
 
 </div>
 
-## 📜 Licença
+## 📍 Onde me encontrar
 
-Este projeto está sob a licença MIT. Veja mais em [LICENSE](LICENSE).
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seu-usuario)  
+[![Behance](https://img.shields.io/badge/Behance-1769FF.svg?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/marlonlara4)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marlon-Lara1010111)
