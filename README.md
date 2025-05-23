@@ -34,7 +34,7 @@ Me chamo Marlon Lara, apaixonado por tecnologia, desenvolvimento, design e sempr
 
 <div align="center">
   
-![Marlon Lara's GitHub stats](https://github-readme-stats.vercel.app/api?username=marlon-Lara101011&show_icons=true&theme=radical)
+![Marlon Lara's GitHub stats](https://github-readme-stats.vercel.app/api?username=marlon-Lara1010111&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marlon-Lara101011&layout=compact&theme=radical)
 
