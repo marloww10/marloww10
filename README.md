@@ -8,7 +8,10 @@
 
 Sou um desenvolvedor e designer dedicado que acredita que o código e a criatividade andam juntos. Gosto de transformar ideias em projetos reais e de aprender constantemente para evoluir.
 
+## 🎓 Formação Acadêmica
 
+- 🏫 **Firjan SENAI SESI Petrópolis**  
+  📚 **Curso Técnico em Desenvolvimento de Sistemas**  
 
 ## 🚀 O que faço?
 
