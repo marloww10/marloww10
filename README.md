@@ -34,10 +34,6 @@ Sou um desenvolvedor e designer dedicado que acredita que o código e a criativi
       <b>JavaScript</b>
     </td>
     <td align="center" style="padding: 15px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="60" /><br>
-      <b>React</b>
-    </td>
-    <td align="center" style="padding: 15px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" /><br>
       <b>HTML5</b>
     </td>
