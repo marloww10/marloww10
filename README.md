@@ -11,7 +11,7 @@ Sou um desenvolvedor e designer dedicado que acredita que o código e a criativi
 ## 🎓 Formação Acadêmica
 
 - 🏫 **Firjan SENAI SESI Petrópolis**  
-  📚 **Curso Técnico em Desenvolvimento de Sistemas**  
+- 📚 **Curso Técnico em Desenvolvimento de Sistemas**  
 
 ## 🚀 O que faço?
 
@@ -49,7 +49,6 @@ Sou um desenvolvedor e designer dedicado que acredita que o código e a criativi
 
 </div>
 
----
 
 ## 📂 Projetos & Estrutura
 
