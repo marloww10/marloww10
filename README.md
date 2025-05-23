@@ -8,7 +8,7 @@
 
 Sou um desenvolvedor e designer dedicado que acredita que o código e a criatividade andam juntos. Gosto de transformar ideias em projetos reais e de aprender constantemente para evoluir.
 
----
+
 
 ## 🚀 O que faço?
 
@@ -52,7 +52,7 @@ Sou um desenvolvedor e designer dedicado que acredita que o código e a criativi
 
 Este repositório contém projetos organizados de forma clara para facilitar o estudo e o desenvolvimento contínuo. Cada pasta representa um projeto ou uma área de aprendizado.
 
----
+
 
 ## 📊 Meu GitHub em números
 
@@ -64,7 +64,7 @@ Este repositório contém projetos organizados de forma clara para facilitar o e
 
 </div>
 
----
+
 
 ## 🌐 Onde me encontrar
 
@@ -83,10 +83,10 @@ Este repositório contém projetos organizados de forma clara para facilitar o e
 
 > “A única forma de fazer um excelente trabalho é amar o que você faz.” – Steve Jobs
 
----
+
 
 📬 **Quer trocar uma ideia?** Me envie uma mensagem!
 
----
+
 
 *Obrigado por visitar meu perfil! 🚀*
