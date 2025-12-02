@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Marlon Lara!
 
-> *Apaixonado por tecnologia, design e desenvolvimento, sempre explorando novos horizontes e desafios.*
+> *Apaixonado por tecnologia, design e desenvolvimento.*
 
 ---
 
