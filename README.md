@@ -46,21 +46,6 @@ Tenho experiência na construção de APIs seguras e eficientes, unindo a agilid
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" style="margin: 0 10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="50" style="margin: 0 10px;" />
 
-</div>
-
-<br>
-
-## 📊 Meu GitHub em números
-
-<div align="center">
-
-<a href="https://github.com/marloww10">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marloww10&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marloww10&layout=compact&theme=radical&hide=html,css"/>
-</a>
-
-</div>
-
 ## 🌐 Onde me encontrar
 
 <div align="center">
